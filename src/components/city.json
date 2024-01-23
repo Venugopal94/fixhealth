@@ -1,0 +1,30 @@
+[{"city_id":"1", "sortname":"d1","city_name":"bangalore","doctors":[
+    {"doctor_id":"11","doctor_name":"Sindhu","city_id":"1"},
+    {"doctor_id":"12","doctor_name":"manu","city_id":"1"},
+    {"doctor_id":"13","doctor_name":"Vasant","city_id":"1"},
+    {"doctor_id":"14","doctor_name":"Vasu","city_id":"1"},
+    {"doctor_id":"15","doctor_name":"Naveen","city_id":"1"}
+]}, 
+
+{"city_id":"2", "sortname":"d2","city_name":"KalyanNagar","doctors":[
+    {"doctor_id":"16","doctor_name":"Amar","city_id":"2"},
+    {"doctor_id":"17","doctor_name":"Anand","city_id":"2"},
+    {"doctor_id":"18","doctor_name":"Ashwini","city_id":"2"},
+    {"doctor_id":"19","doctor_name":"Asha","city_id":"2"},
+    {"doctor_id":"20","doctor_name":"Beeresh","city_id":"2"}
+
+]},
+
+{"city_id":"3", "sortname":"d3","city_name":"JP Nagar","doctors":[
+    {"doctor_id":"21","doctor_name":"Charan","city_id":"3"},
+    {"doctor_id":"22","doctor_name":"Deepu","city_id":"3"},
+    {"doctor_id":"23","doctor_name":"Mahesh","city_id":"3"},
+    {"doctor_id":"24","doctor_name":"Nagu","city_id":"3"},
+    {"doctor_id":"25","doctor_name":"Krishna","city_id":"3"}
+
+]}
+
+
+
+    
+]
